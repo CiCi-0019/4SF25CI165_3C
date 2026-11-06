@@ -20,16 +20,3 @@ This project analyzes the FC Barcelona squad history dataset using Python, Panda
 5. Generating insights using grouping and aggregation.
 6. Visualizing findings using charts.
 
-## Run the notebook
-1. Open this folder in Visual Studio Code.
-2. Install the Python and Jupyter extensions if they are not already installed.
-3. Install dependencies in the VS Code terminal:
-
-   `python -m pip install pandas numpy matplotlib seaborn ipykernel`
-
-4. Open `Skill_Lab_CIE_1.ipynb`.
-5. Select a Python kernel.
-6. Run all cells from top to bottom.
-
-Keep `dataset.csv` in the same folder as the notebook.
-
